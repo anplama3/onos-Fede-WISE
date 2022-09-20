@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="slf4j-jdk14-1.7.25_b2f7974">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_sdn/3f6c5c8a115a57e32ed5dad46da150b2/external/slf4j_jdk14/slf4j-jdk14-1.7.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

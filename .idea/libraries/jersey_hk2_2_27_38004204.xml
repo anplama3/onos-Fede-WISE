@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jersey-hk2-2.27_38004204">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_sdn/3f6c5c8a115a57e32ed5dad46da150b2/external/jersey_hk2/jersey-hk2-2.27.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

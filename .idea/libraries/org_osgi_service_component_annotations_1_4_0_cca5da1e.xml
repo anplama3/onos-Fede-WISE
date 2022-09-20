@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.osgi.service.component.annotations-1.4.0_cca5da1e">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_sdn/3f6c5c8a115a57e32ed5dad46da150b2/external/org_osgi_service_component_annotations/org.osgi.service.component.annotations-1.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

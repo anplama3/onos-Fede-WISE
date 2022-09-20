@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.osgi.service.component-1.4.0_a8448e39">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_sdn/3f6c5c8a115a57e32ed5dad46da150b2/external/org_osgi_service_component/org.osgi.service.component-1.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

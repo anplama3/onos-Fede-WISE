@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kubernetes-model-admissionregistration-5.3.0_edc6948f">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_sdn/3f6c5c8a115a57e32ed5dad46da150b2/external/k8s_model_admissionregistration/kubernetes-model-admissionregistration-5.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
